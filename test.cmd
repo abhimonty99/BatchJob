@@ -1,2 +1,1 @@
 Hostname
-pause
